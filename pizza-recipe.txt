@@ -1,0 +1,4 @@
+Buy a frozen pizza.
+Pre-heat oven to temperature on pizza box.
+Cook pizza for amount of time on pizza box.
+Eat pizza.
